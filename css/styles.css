@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    text-align: center;
+    padding-top: 50px;
+    background-color: E7F6F2;
+    font-family: 'Merriweather', Helvetica, sans-serif;
+    text-decoration-color: 395B64;
+}
+h1{
+    
+    font-size: 562%;
+    font-family: 'Sacramento', cursive;
+    padding-bottom: 0S;
+    color: #66bfbf;
+}
+h2{
+    font-size: 40px;
+    color: #66bfbf;
+}
+h3{
+    color: #66bfbf;
+}
+p{
+    color: 395B64;
+}
+.middle-container{
+    ;
+    
+}
+.bottom-container{
+    background-color: #66bfbf;
+}
+
+.bottom-cloud{
+    position: absolute;
+
+}
+.top-cloud{
+    position: absolute;
+    right: 350px;
+}
+hr{
+    border-style: dotted none none ;
+    border-color: grey;
+    align-items: center;
+    border-width: 5px;
+    height: 0px;
+    width: 10%;
+}
+.computer{
+    width: 200px;
+    height: 200px;
+}
+.travel{
+    width: 200px;
+    height: 200px;
+}
+.profile{
+    margin: 100px auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto ;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.travel{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+.contact-message{
+    margin: 100px auto ;
+    width: 40%;
+}
+
+.btn {
+    font-size:15px;
+    font-family:Arial;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:#fff;
+    border-color:#599bb3;
+    font-weight:bold;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    box-shadow: 0px 10px 14px -7px #276873;
+    text-shadow: 0px 1px 0px #3d768a;
+    background:linear-gradient(rgba(96, 238, 227, 1), #408c99);
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(#408c99, rgba(96, 238, 227, 1));
+  }
+     
+  a{
+    color: #3d768a;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover{
+    color: aliceblue;
+
+  }
+  .copyright{
+    color: aliceblue;
+    font-size: small;
+  }
